@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mal977)]
+
+- 🔭 Mostly working on Mobile/Java projects 📱
+- 🌱 Currently leaning Flutter 🍃
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mal977)
